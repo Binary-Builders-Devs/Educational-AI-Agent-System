@@ -1,6 +1,6 @@
 # 🎓 Educational AI Agent System
 
-This project demonstrates a multi-agent educational platform built using the **Fetch.ai `uAgents` framework**. It features a modular architecture with a Student, Tutor, and Knowledge agent. A key feature is the AI Assessment agent, which leverages **Google's Gemini AI** to provide personalized learning recommendations. The system also uses the SingularityNET **`MeTTa` knowledge graph** for structured curriculum retrieval and the **Chat Protocol** for user interaction, ensuring compatibility with the ASI:One interface.
+This project is a multi-agent educational platform built with **Fetch.ai `uAgents`**, using Gemini AI for personalized assessments, SingularityNET **`MeTTa`** for curriculum retrieval, and the **Chat Protocol** for ASI:One-compatible interaction.
 
 ### Project Overview
 
@@ -226,3 +226,15 @@ pip install python-dotenv
 
 
 Your terminal prompt will return to its normal state, and any subsequent `pip install` commands will affect your global Python environment (which is usually what you want to avoid).
+
+
+
+
+
+
+
+
+
+
+
+
