@@ -226,15 +226,3 @@ pip install python-dotenv
 
 
 Your terminal prompt will return to its normal state, and any subsequent `pip install` commands will affect your global Python environment (which is usually what you want to avoid).
-
-
-
-
-
-
-
-
-
-
-
-
